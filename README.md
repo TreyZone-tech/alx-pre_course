@@ -1,1 +1,1 @@
-My first readme
+I ama  software engineer
